@@ -6,7 +6,7 @@ Skrip otomasi sederhana untuk instalasi dan penghapusan WordPress di Linux denga
 
 ## 📋 Fitur
 
-### 🔧 Script Instalasi (`install.sh`)
+### 🔧 Script Instalasi (`install-wordpress.sh`)
 - ✅ Instalasi otomatis WordPress dengan konfigurasi lengkap  
 - ✅ Pilihan web server: **Apache** atau **Nginx**  
 - ✅ Pilihan database: **MySQL/MariaDB** atau **PostgreSQL**  
@@ -16,7 +16,7 @@ Skrip otomasi sederhana untuk instalasi dan penghapusan WordPress di Linux denga
 - ✅ Konfigurasi virtual host/server block otomatis  
 - ✅ Penyimpanan konfigurasi untuk keperluan `remove.sh`  
 
-### 🧹 Script Penghapusan (`remove.sh`)
+### 🧹 Script Penghapusan (`remove-wordpress.sh`)
 - ✅ Penghapusan lengkap instalasi WordPress  
 - ✅ Backup otomatis sebelum penghapusan *(opsional)*  
 - ✅ Penghapusan database dan user  
